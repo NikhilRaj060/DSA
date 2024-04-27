@@ -1,4 +1,6 @@
 https://ide.geeksforgeeks.org/online-java-compiler/65d229b0-c159-4f31-aff8-3873496a2447
+https://ide.geeksforgeeks.org/online-java-compiler/939d4ebe-12dd-4b8d-a60c-4e70b3082fb7
+https://ide.geeksforgeeks.org/online-java-compiler/baf9f2f7-74af-4d57-8af1-da8c53fccae3
 
 
 Steps: 
