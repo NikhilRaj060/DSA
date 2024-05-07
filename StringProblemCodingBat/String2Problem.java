@@ -18,4 +18,3 @@ doubleChar("Hi-There") → "HHii--TThheerree"
     }
     return ans;
   }
-  
