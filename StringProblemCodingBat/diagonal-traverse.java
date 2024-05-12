@@ -37,3 +37,34 @@ class Solution {
         return ans;
     }
 }
+
+/*
+   0 1 2
+0  1 2 3
+1  4 5 6
+2  7 8 9
+
+   0  1  2  3
+0  1  2  3  5
+1  5  6  7  8
+2  9  10 11 12
+3  13 14 15 16
+dir dur = i--, j++;
+dir dwl = i++, j--;
+dir dul = i--, j--;
+dir dwr = i++, j++;
+
+We use : 
+dir dur = i--, j++;
+dir dwl = i++, j--;
+
+
+
+(0,0) -->dwl
+(1,0) -->dup
+(0,2) -->dwl
+(2,2) -->dup
+
+n = 3 
+m = 3
+*/
